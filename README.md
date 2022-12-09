@@ -1,7 +1,6 @@
 # hello-word-2
 
-ononono.
-this is wondefuly.
+today.
 
 this is a test repository
 
